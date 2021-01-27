@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SbtSXLTMksPJYNOYNKALqnp0ISe2S/IYldo4+vvbQelfWclB4xUvDGAUtmAwn1qjoDhypwyfVlRtw98Dp0wSqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Użytkownik\\source\\repos\\DegenerationTool\\DegenerationTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Użytkownik\\.nuget\\packages\\ironocr\\2020.12.2\\ironocr.2020.12.2.nupkg.sha512",
+    "C:\\Users\\Użytkownik\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Użytkownik\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Użytkownik\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
